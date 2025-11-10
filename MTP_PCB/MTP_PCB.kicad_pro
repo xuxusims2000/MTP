@@ -57,7 +57,12 @@
         }
       ],
       "drc_exclusions": [
-        "unconnected_items|108370000|48770000|babc8253-45b1-4609-a625-7795c6050893|dd7f24e0-4b76-4b9b-96ca-cd8404f2c7ca"
+        "unconnected_items|108370000|48770000|babc8253-45b1-4609-a625-7795c6050893|dd7f24e0-4b76-4b9b-96ca-cd8404f2c7ca",
+        "unconnected_items|118530000|48770000|7daf5800-84fa-4f9a-9407-b3d4a28228f6|595fc7dd-0b0a-41db-b53e-903ce09392d3",
+        "unconnected_items|118530000|48770000|7daf5800-84fa-4f9a-9407-b3d4a28228f6|ecc3866d-34e0-4c6c-bbfb-a586cd6e04aa",
+        "unconnected_items|123610000|46230000|c3a9c7d8-16b1-42b0-bcf4-dc4e1e7633a2|09ce0373-774e-4f69-8c1f-2af1ff69371d",
+        "unconnected_items|123610000|46230000|c3a9c7d8-16b1-42b0-bcf4-dc4e1e7633a2|7daf5800-84fa-4f9a-9407-b3d4a28228f6",
+        "unconnected_items|138850000|48770000|e8223283-81a0-4874-8cf8-56404f06c1a5|edd23751-4b2a-47ff-9073-a8e9e0f25504"
       ],
       "meta": {
         "version": 2
@@ -462,7 +467,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MTP_PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
